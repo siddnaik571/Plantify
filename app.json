@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "plantify",
+    "slug": "plantify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/PlantifyLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashPlantify.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7FDF8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
